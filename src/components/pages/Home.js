@@ -9,7 +9,7 @@ class Home extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Acres - Real Estate React Template | Homepage</title>
+                    <title>RISEE 2 - Prop Tech React Template | Homepage</title>
                     <meta
                         name="description"
                         content="#"
